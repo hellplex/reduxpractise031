@@ -24,3 +24,6 @@ Click [here](https://github.com/StephenGrider/ReactStarter/releases) then downlo
 > npm install
 > npm start
 ```
+
+### Youtube API
+https://console.developers.google.com/apis/credentials?project=reactdemos-205707&folder=&organizationId=
